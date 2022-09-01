@@ -5,6 +5,7 @@
 </p>
 <details open>
     <summary>Youtube</summary>
+  *Example term: "snow"*
     <ul>
         <li>a</li>
         <li>a</li>
