@@ -7,14 +7,13 @@
 #### ***Example term used: "snow"***
 
 <details open>
-    <summary>Youtube</summary>
+    <summary>Youtube (search box)</summary>
     <ul>
         <li>snow.wmv</li>
         <li>snow.mov</li>
         <li>snow 2009/01/01</li>
         <li>C:\My Documents\ snow</li>
         <li>Webcam Video 2009</li>
-        <li>January 1, 2009 11:00AM</li>
-      
+        <li>January 1, 2009 11:00AM</li>     
     </ul>
 </details>
