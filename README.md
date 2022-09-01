@@ -22,6 +22,6 @@
 <details open>
     <summary>Google (search box)</summary>
     <ul>
-        <li>intitle:Index of / intext:snow ext: wmv | mov | jpeg | png | jpg (after that you also have the option to filter the results to a certain date range)</li>
+        <li>intitle:Index of / intext:snow ext: wmv | mov | jpeg | png | jpg  (after that you also have the option to filter the results to a certain date range)</li>
     </ul>
 </details>
