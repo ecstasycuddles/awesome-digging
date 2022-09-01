@@ -26,3 +26,14 @@
             (after that you also have the option to filter the results to a certain date range)</li>
     </ul>
 </details>
+
+<details open>
+    <summary>Search By Image</summary>
+    <ul>
+        <li>Install the the add-on "Search by Image"<br/>
+            Find an old picture (like a meme for example)
+            Right click and select a search engine 
+            >You will find similar images
+        </li>
+    </ul>
+</details>
