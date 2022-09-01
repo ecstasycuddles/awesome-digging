@@ -20,7 +20,7 @@
 </details>
 
 <details open>
-    <summary>Google</summary>
+    <summary>Google (search box)</summary>
     <ul>
         <li>intitle:Index of / intext:snow 2009 ext: wmv | mov | jpeg | png | jpg</li>
     </ul>
