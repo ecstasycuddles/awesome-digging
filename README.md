@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://pbs.twimg.com/media/FV4NHaHWIAIBWYy?format=jpg&name=small" width="256" title="image">
 </p>
+
 ***Example term used: snow***
+
 <details open>
     <summary>Youtube</summary>
     <ul>
