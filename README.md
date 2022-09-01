@@ -1,6 +1,6 @@
 # awesome-digging
 Techniques i use to dig stuff on the interwebz
-![Image of Yaktocat](https://pbs.twimg.com/media/FPX4iqKVsAA2dA-.jpg)
+![Image](https://pbs.twimg.com/media/FV4NHaHWIAIBWYy?format=jpg&name=small)
 <details open>
     <summary>Youtube</summary>
     <ul>
