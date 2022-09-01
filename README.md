@@ -31,9 +31,9 @@
     <summary>Search By Image</summary>
     <ul>
         <li>Install the the add-on "Search by Image"<br/>
-            Find an old picture (like a meme for example)
-            Right click and select a search engine 
-            >You will find similar images
+            Find an old picture (like a meme for example)<br/>
+            Right click and select a search engine <br/>
+            >You will find similar images<br/>
         </li>
     </ul>
 </details>
